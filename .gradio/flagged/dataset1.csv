@@ -1,0 +1,2 @@
+audio_filepath,image_filepath,Speech to Text,Doctor's Response,output 2,timestamp
+.gradio\flagged\audio_filepath\2500decf6b50f85aae75\audio.wav,.gradio\flagged\image_filepath\5cb2ab3947956e0bf6b6\cut.jpg," Hey doctor, there is something wrong with my leg. Would you please tell me what to do?","With what I see, I think you have a minor cut on your foot. You can clean the cut with soap and water, apply an antibiotic ointment to prevent infection, and cover it with a bandage to protect it from dirt and bacteria.",,2025-08-22 18:34:35.600339

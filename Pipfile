@@ -16,7 +16,6 @@ fastapi = "==0.115.6"
 ffmpy = "==0.5.0"
 filelock = "==3.16.1"
 fsspec = "==2024.12.0"
-gradio = "==5.12.0"
 gradio-client = "==1.5.4"
 groq = "==0.15.0"
 gtts = "==2.5.4"
@@ -62,6 +61,7 @@ urllib3 = "==2.3.0"
 uvicorn = "==0.34.0"
 websockets = "==14.1"
 python-dotenv = "*"
+gradio = "*"
 
 [dev-packages]
 
