@@ -5,6 +5,7 @@
 # VoiceBot UI with Gradio
 import os
 import gradio as gr
+import speech_recognition as sr
 
 from brain_of_the_doctor import encode_image, analyze_image_with_query
 from voice_of_the_patient import record_audio, transcribe_with_groq
