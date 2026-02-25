@@ -60,4 +60,4 @@ iface = gr.Interface(
     title="CheckUp AI - Virtual Health Check Partner "
 )
 
-iface.launch(debug=True)
+iface.launch(server_name="0.0.0.0", server_port=7860)
